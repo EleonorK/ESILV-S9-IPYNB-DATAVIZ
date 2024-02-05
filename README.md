@@ -1,31 +1,19 @@
 # Social Media Mental Health Analysis Project
 
 ## Overview
-This project aims to explore the impact of social media usage on mental health through interactive visualizations created with Plotly. It utilizes a dataset from Kaggle to analyze patterns and correlations between social media usage and various aspects of mental well-being.
+This project investigates the impact of social media use on mental health, leveraging a dataset from Kaggle. Through interactive Plotly visualizations, we identify patterns and correlations between social media habits and mental well-being indicators.
 
 ## Dataset
-The dataset for this project is sourced from Kaggle, providing insights into social media usage and its effects on mental health.
-- [View the dataset on Kaggle](https://www.kaggle.com/datasets/your-dataset-link)
-
-## Installation and Setup
-To run this project, you will need Python 3 and the following packages:
-- pandas
-- plotly
-
-1. Clone or download this repository to your local machine.
-2. Install the required Python packages:
-   ```
-   pip install -r requirements_project.txt
-   ```
-
-## Usage
-The main analysis can be viewed by running the Jupyter notebook `Project_Eleonor_Kioulou.ipynb` in a Jupyter environment.
+The project utilizes a Kaggle dataset to explore the relationship between social media usage and mental health outcomes. [View the dataset on Kaggle](https://www.kaggle.com/datasets/your-dataset-link).
 
 ## Visualizations
-The project includes several interactive visualizations that explore different dimensions of social media usage and its correlation with mental health indicators.
+Our analysis features a range of Plotly visualizations, including:
+- **Bar charts**: Highlighting daily social media usage patterns.
+- **Pie charts**: Showcasing user demographics and preferences.
+- **Scatter plots**: Examining correlations between social media usage and mental health indicators like stress and sleep quality.
+- **Histograms and line graphs**: Analyzing response distributions and trends over time.
 
-## Contributing
-Contributions, questions, and comments are welcome and can be made by submitting issues or pull requests on GitHub.
+These visualizations provide insights into how social media interacts with various aspects of mental health, revealing both expected and surprising patterns.
 
-## License
-This project is open source and available under the MIT License.
+## Conclusions
+The visual analysis underscores the nuanced relationship between social media usage and mental health, emphasizing the need for mindful engagement with digital platforms.
